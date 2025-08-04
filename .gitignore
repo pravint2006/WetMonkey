@@ -1,0 +1,14 @@
+# Ignore downloaded third-party tools
+external/
+
+
+# Ignore Python
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.swp
+
+# Tool output
+*.restore
+none
